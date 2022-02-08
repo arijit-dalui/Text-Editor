@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/cut.png</file>
+        <file>img/diskette.png</file>
+        <file>img/files.png</file>
+        <file>img/information-button.png</file>
+        <file>img/new.png</file>
+        <file>img/paste.png</file>
+        <file>img/redo-arrow-symbol.png</file>
+        <file>img/save-as.png</file>
+        <file>img/share.png</file>
+        <file>img/undo-arrow.png</file>
+        <file>img/icons8-bold-50.png</file>
+        <file>img/icons8-bold-your-text-field-on-document-file-24.png</file>
+        <file>img/icons8-subscript-24.png</file>
+        <file>img/icons8-superscript-24.png</file>
+        <file>img/icons8-about-24.png</file>
+        <file>img/icons8-help-24.png</file>
+        <file>img/icons8-italic-24.png</file>
+        <file>img/icons8-letter-i-26.png</file>
+        <file>img/icons8-u-48.png</file>
+        <file>img/icons8-underline-24.png</file>
+    </qresource>
+</RCC>
