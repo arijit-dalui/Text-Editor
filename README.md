@@ -3,7 +3,7 @@ A Text Editor Application
 # Installation guide
 1. Download zip
 2. Unzip the file
-3. # install qt5
+# install qt5
 $ sudo apt-get install qt5-default
 4. qmake TextPad.pro
 5. make
