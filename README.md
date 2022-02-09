@@ -3,8 +3,8 @@ A Text Editor Application
 # Installation guide
 1. Download zip
 2. Unzip the file
-# install qt5
-$ sudo apt-get install qt5-default<br />
+3. install qt5
+    $ sudo apt-get install qt5-default<br />
 4. cd TextPad<br />
 5. qmake TextPad.pro<br />
 6. make<br />
@@ -18,3 +18,10 @@ $ sudo apt-get install qt5-default<br />
 5. format your text bold,italics,underline,subscript,superscript from format section.
 6 about me section added for author's details.
 7. goto help section for more information in the help button present in the application.
+# Isuues
+1. Please make sure your software is updated.
+    You may run the command:
+    $sudo apt-get update
+2. Make sure qmake is updated.
+    You may run the command:
+    $sudo apt-get upgrade qmake
